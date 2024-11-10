@@ -13,7 +13,6 @@
 Les couleurs de l'application sont basées sur des tons pastel, créant une atmosphère apaisante et agréable pour l'utilisateur :
 - **weather-primary** : 🌊 Bleu pastel clair `#A2D2FF`
 - **weather-secondary** : ☁️ Bleu très clair `#BDE0FE`
-- **weather-accent** : 🌼 Blanc pastel doux `#FFFCF2`
 
 ## 🛠️ Technologies utilisées
 
@@ -51,6 +50,7 @@ Les couleurs de l'application sont basées sur des tons pastel, créant une atmo
 
 ![Aperçu de la page d'accueil](./img/preview1.png)
 ![Aperçu de la page de recherche](./img/preview2.png)
+![Aperçu du popup info](./img/preview3.png)
 
 ## 📚 Ressources et documentation
 
